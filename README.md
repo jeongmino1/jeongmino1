@@ -4,7 +4,7 @@
 안녕하세요 저는 미래의 개발자 정민호라고 합니다. 궁금하신점이 있으시면 메시지를 남겨주세요! 감사합니다!
 
 ### 소속
-메타버스 아카데미
+mtvs academy
 
 ### 기술
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=java)](https://velog.io/@java)

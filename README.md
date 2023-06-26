@@ -26,7 +26,7 @@
 ### Software & Tools
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 <!-- Github Status -->
-![jeongmino1's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=taedyyyyy&theme=default)
+![jeongmino1's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeongmino1&theme=default)
 
 
 

@@ -6,24 +6,23 @@
 ### Hi there 👋
 안녕하세요 저는 미래의 개발자 정민호라고 합니다. 궁금하신점이 있으시면 메시지를 남겨주세요! 감사합니다!
 
-### Languages
- <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
-  </a>
+<!-- Language logo-->
+#### 📋 Languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 #### 💾 Databases
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   
-### 📚 Frameworks, Platforms and Libraries
+#### 📚 Frameworks, Platforms and Libraries
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-### 💻 IDEs/Editors
+#### 💻 IDEs/Editors
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+#### <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 - 백엔드 개발자
-  
-### Software & Tools
+
+#### Software & Tools
 <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
 <!-- Github Status -->
 ![jeongmino1's GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jeongmino1&theme=default)

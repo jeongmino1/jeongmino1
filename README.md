@@ -4,7 +4,6 @@
 
 
 ### Hi there 👋
-정민호입니다.
 
 <!-- Language logo-->
 #### 📋 Languages
